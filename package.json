@@ -2,7 +2,7 @@
     "name": "tsignoresuper",
     "displayName": "TsIgnoreSuper",
     "description": "Ignores //@ts-check on super() statement.",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "publisher": "emilwalser",
     "engines": {
         "vscode": "^1.25.0"
