@@ -5,9 +5,9 @@ All notable changes to the "tsignoresuper" extension will be documented in this 
 [//]: # (recommendations on how to structure this file.)
 
 
-## 1.0.0
+## 1.0.0 
 
-- Initial release
+- Initial release 
 
 ## 0.1.0
 

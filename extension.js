@@ -1,3 +1,5 @@
+//TODO: Add feature: Language filter
+
 const vscode = require("vscode")
 const { Position, TextEdit } = require('vscode')
 

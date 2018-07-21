@@ -1,3 +1,5 @@
 // Place your settings in this file to overwrite default and user settings.
 {
+    "todo-tree.flat": false,
+    "todo-tree.expanded": true
 }
