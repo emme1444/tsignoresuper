@@ -13,6 +13,21 @@
     "activationEvents": [
         "*"
     ],
+    "contributes": {
+        "configuration": {
+            "type": "object",
+            "title": "TS Ignore configuration",
+            "properties": {
+                "tsignoresuper.languages": {
+                    "type": "array",
+                    "default": [
+                        "javascript"
+                    ],
+                    "description": "Specifies the languages this extension acts upon"
+                }
+            }
+        }
+    },
     "main": "./extension",
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
